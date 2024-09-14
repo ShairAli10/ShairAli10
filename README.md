@@ -5,7 +5,7 @@ I'm a dedicated and enthusiastic Full Stack Developer, currently focusing on bui
 
 <br />
 
-- 🔭 I’m currently working on **Full Stack Development** with **Laravel**, **React.js**, **Next.js**, and **Node.js**.
+- 🔭 I’m currently working on **Full Stack Development** with  **Laravel**, **React.js**, **Next.js**, and **Node.js**.
   
 - 🌱 I’m expanding my knowledge of **Advanced Next.js**, **API Development**, and **Web Performance Optimization**.
 
@@ -20,19 +20,6 @@ I'm a dedicated and enthusiastic Full Stack Developer, currently focusing on bui
 - ⚡ Fun fact: **I think of coding as solving complex puzzles, piece by piece!**
 
 <br />
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100011664468198" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" />
-  </a>
-  <a href="https://dribbble.com/Numan-star" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble Profile" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
