@@ -9,13 +9,13 @@ I'm a dedicated and enthusiastic Full Stack Developer, currently focusing on bui
   
 - 🌱 I’m expanding my knowledge of **Advanced Next.js**, **API Development**, and **Web Performance Optimization**.
 
-- 👯 I’m eager to collaborate on **Full Stack Projects**.
+- 👯 I’m eager to collaborate on **Full Stack Projects**, where I can contribute my skills and learn from others in the community.
 
 - 🤔 I’m seeking advice on **scaling complex applications**.
 
-- 💬 Feel free to ask me about **Laravel, React.js, Node.js, Next.js, MongoDB**, and Full Stack Development in general.
+- 💬 Feel free to ask me about **Laravel, React.js, Node.js, Next.js, MongoDB, MySql**, and Full Stack Development in general.
 
-- 📫 You can reach me at **shairaliyamin@gmail.com**.
+- 📫 You can reach me at **shairaliyamin@gmail.com**, **Phone:** +923086258694.
 
 - ⚡ Fun fact: **I think of coding as solving complex puzzles, piece by piece!**
 
